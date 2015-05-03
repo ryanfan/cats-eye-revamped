@@ -15,31 +15,31 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Darren Cheng
   pic: 1
-  position: Lead Designer
+  position: Co-Manager
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
       url: #
     - title: linkedin
       url: #
+    - title: envelope
+      url: #
 
-- name: Diana Petersen
+- name: Thomas Lynch
+  pic: 2
+  position: Co-Manager
+  social:
+    - title: twitter
+      url: #
+    - title: linkedin
+      url: #
+    - title: envelope
+      url: #
+
+- name: Subcomittee...
   pic: 3
-  position: Lead Developer
+  position: Members
   social:
     - title: twitter
       url: #
