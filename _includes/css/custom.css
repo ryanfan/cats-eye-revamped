@@ -51,3 +51,8 @@ header {
 .portfolio-modal .modal-content {
   padding: 4.5em 0;
 }
+
+/*Hard-coded since currently cannot find fix*/
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+    background: rgba(66,00,99,.9); /* Fallback when no plugin support */
+}
