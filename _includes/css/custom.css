@@ -81,6 +81,7 @@ a.portfolio-link .timeline-image:hover{
     padding-top: 35px;
     height: 0;
     overflow: hidden;
+    margin-bottom: 30px;
 }
 
 .form-container iframe {
