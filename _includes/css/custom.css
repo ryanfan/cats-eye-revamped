@@ -60,7 +60,7 @@ header {
 
 .portfolio-modal .close-modal {
     top: 0px;
-    right: 0px
+    right: 0px;
 }
 
 @media (min-width: 768px){
