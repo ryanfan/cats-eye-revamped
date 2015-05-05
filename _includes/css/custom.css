@@ -33,18 +33,25 @@ header {
 }
 
 .symbol-responsive {
-  font-size: 2em;
+    font-size: 30px;
 }
 
 @media (min-width: 768px){
     .symbol-responsive {
-      font-size: 3em;
+      font-size: 43px;
     }
 
 }
+
 @media (min-width: 992px){
     .symbol-responsive {
-      font-size: 4.5em;
+      font-size: 68px;
+    }
+}
+
+@media (min-width: 1200px){
+    .symbol-responsive {
+      font-size: 78px;
     }
 }
 
@@ -71,8 +78,21 @@ header {
 
 }
 
-a.portfolio-link .timeline-image:hover{
+
+a.portfolio-link .fuck{
+    position: absolute;
+    left:0%;
+    opacity: 0;
+    border-radius: 100%;
+
+}
+
+a.portfolio-link .fuck:hover{
     background: #{{ site.color.secondary }};
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+    opacity: 0.9;
 }
 
 .form-container {
