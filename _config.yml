@@ -37,30 +37,22 @@ people:
     - title: envelope
       url: #
 
-- name: Subcomittee...
-  pic: 3
-  position: Members
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/viccateseye
   - title: facebook
-    url:
+    url: https://www.facebook.com/thecatseye
   - title: flickr
     url: https://www.flickr.com/photos/129567669@N05/sets/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Goldring Student Centre (Basement)
+  - line: 150 Charles Street West
+  - line: Toronto, ON, Canada
+  - line: M5S 1K9
 
 # Build settings
 markdown: kramdown
