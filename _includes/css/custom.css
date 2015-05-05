@@ -31,3 +31,19 @@ header {
         background-size: 60px 60px;
     }
 }
+
+.symbol-responsive {
+  font-size: 2em;
+}
+
+@media (min-width: 768px){
+    .symbol-responsive {
+      font-size: 3em;
+    }
+
+}
+@media (min-width: 992px){
+    .symbol-responsive {
+      font-size: 4.5em;
+    }
+}
