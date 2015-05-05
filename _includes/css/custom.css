@@ -48,8 +48,9 @@ header {
     }
 }
 
-.portfolio-modal .modal-content {
 
+.portfolio-modal .modal-content {
+  padding: 0 0;
 }
 
 /*Hard-coded since currently cannot find fix*/
