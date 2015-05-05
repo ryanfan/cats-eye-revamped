@@ -1,5 +1,5 @@
 ---
-title: Stage Performances
+title: Shows
 subtitle: 
 layout: default
 modal-id: 2
