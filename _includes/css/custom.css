@@ -70,3 +70,7 @@ header {
     }
 
 }
+
+a.portfolio-link .timeline-image:hover{
+    background: #{{ site.color.secondary }};
+}
