@@ -59,12 +59,14 @@ header {
 }
 
 .portfolio-modal .close-modal {
-    top: 0px
+    top: 0px;
+    right: 0px
 }
 
 @media (min-width: 768px){
     .portfolio-modal .close-modal {
-        top: +25px
+        top: +25px;
+        right: +25px;
     }
 
 }
