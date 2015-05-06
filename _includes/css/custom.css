@@ -68,14 +68,28 @@ header {
 .portfolio-modal .close-modal {
     top: 0px;
     right: 0px;
+    width: 30px;
+    height: 30px;
 }
+
+.portfolio-modal .close-modal .fa-2x{
+    font-size: 1em;
+}
+
 
 @media (min-width: 768px){
     .portfolio-modal .close-modal {
-        top: +25px;
-        right: +25px;
+        top: 0px;
+        right: 0px;
+        width: 60px;
+        height: 60px;
+    }
+    
+    .portfolio-modal .close-modal .fa-2x{
+        font-size: 2em;
     }
 
+    
 }
 
 
