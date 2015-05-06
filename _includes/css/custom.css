@@ -33,7 +33,7 @@ header {
 }
 
 .symbol-responsive {
-    font-size: 30px;
+    font-size: 33px;
 }
 
 @media (min-width: 768px){
@@ -94,11 +94,9 @@ header {
 
 
 a.portfolio-link .see-more{
-    position: absolute;
-    left:0%;
-    opacity: 0;
     border-radius: 100%;
-
+    left: 0%;
+    opacity: 0;
 }
 
 a.portfolio-link .see-more:hover{
@@ -128,7 +126,7 @@ a.portfolio-link .see-more:hover{
 
 
 .space-see-more{
-opacity: 0;
+    opacity: 0;
 }
 
 .space-see-more:hover{
@@ -137,16 +135,4 @@ opacity: 0;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
     opacity: 0.9;
-}
-
-.space-see-less{
-opacity: 1;
-}
-
-.space-see-less:hover{
-    background: #{{ site.color.secondary }};
-    -webkit-transition: all ease .5s;
-    -moz-transition: all ease .5s;
-    transition: all ease .5s;
-    opacity: 0.1;
 }
