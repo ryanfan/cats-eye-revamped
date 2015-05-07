@@ -94,8 +94,9 @@ header {
 
 
 a.portfolio-link .see-more{
+    position:absolute;
     border-radius: 100%;
-    left: 0%;
+    left: -50%;
     opacity: 0;
 }
 
