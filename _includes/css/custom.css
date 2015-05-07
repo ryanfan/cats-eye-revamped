@@ -111,10 +111,17 @@ a.portfolio-link .see-more:hover{
 .form-container {
     position: relative;
     padding-bottom: 100%;
-    padding-top: 100%;
+    padding-top: 0px;
     height: 0;
     overflow: hidden;
     margin-bottom: 30px;
+}
+
+.calendar-container {
+    position: relative;
+    padding-bottom: 75%;
+    height: 0;
+    overflow: hidden;
 }
 
 .form-container iframe {
