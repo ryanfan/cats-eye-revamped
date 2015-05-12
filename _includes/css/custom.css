@@ -36,9 +36,20 @@ header {
     font-size: 33px;
 }
 
+.timeline>li .timeline-image h4 {
+    margin-top: 14px;
+    font-size: 12px;
+    line-height: 16px;
+}
+
 @media (min-width: 768px){
     .symbol-responsive {
       font-size: 43px;
+    }
+    .timeline>li .timeline-image h4 {
+        margin-top: 20px;
+        font-size: 14px;
+        line-height: 18px;
     }
 
 }
@@ -47,11 +58,21 @@ header {
     .symbol-responsive {
       font-size: 68px;
     }
+    .timeline>li .timeline-image h4 {
+      margin-top: 34px;
+      font-size: 20px;
+      line-height: 24px;
+    }
 }
 
 @media (min-width: 1200px){
     .symbol-responsive {
       font-size: 78px;
+    }
+    .timeline>li .timeline-image h4 {
+        margin-top: 40px;
+        font-size: 24px;
+      line-height: 28px;
     }
 }
 
@@ -199,6 +220,7 @@ a.portfolio-link .see-more:hover{
     height: 170px;
     line-height: 170px;
     }
+
 
 }
 
