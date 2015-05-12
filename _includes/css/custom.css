@@ -135,3 +135,97 @@ a.portfolio-link .see-more:hover{
     transition: all ease .5s;
     opacity: 0.9;
 }
+
+.fa-stack.final{
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+}
+
+.timeline>li .timeline-image.final {
+    font-size: 33px;
+    width: 94px;
+    height: 94px;
+    line-height: 94px;
+    margin-left: -7px;
+    /*box-shadow: 10px 10px 5px #888888;*/
+
+}
+
+@media (min-width: 768px){
+    .timeline>li .timeline-image.final {
+      font-size: 43px;
+      width: 114px;
+      height: 114px;
+        line-height: 114px;
+      margin-left: -57px;
+    }
+    
+    .fa-stack.final{
+        width: 100px;
+        height: 100px;
+        line-height: 100px;
+    }
+
+
+}
+
+@media (min-width: 992px){
+    .timeline>li .timeline-image.final {
+      font-size: 68px;
+      width: 164px;
+      height: 164px;
+        margin-left: -82px;
+    }
+    
+    .fa-stack.final{
+    width: 150px;
+    height: 150px;
+    line-height: 150px;
+}
+
+}
+
+@media (min-width: 1200px){
+    .timeline>li .timeline-image.final {
+      font-size: 78px;
+      width: 184px;
+      height: 184px;
+        line-height: 184px;
+      margin-left: -92px;
+    }
+    .fa-stack.final{
+    width: 170px;
+    height: 170px;
+    line-height: 170px;
+    }
+
+}
+
+/*http://www.dynamicsights.com/csscolorcycle.html*/
+#colorCycle { 
+animation-name: homeCycle; 
+animation-duration:2s; 
+animation-direction:alternate; 
+animation-iteration-count:infinite; 
+
+-webkit-animation-name: homeCycle; 
+-webkit-animation-duration:2s; 
+-webkit-animation-direction:alternate; 
+-webkit-animation-iteration-count:infinite; }	
+
+@keyframes homeCycle 
+{
+    /*0% {background-color:#{{ site.color.primary }};} 
+    50% {background-color:#{{ site.color.secondary }};} */
+    0% {border-color:#f1f1f1;} 
+    50% {border-color:#{{ site.color.primary }};} 
+} 
+
+@-webkit-keyframes homeCycle 
+{ 
+    /*0% {background-color:#{{ site.color.primary }};} 
+    50% {background-color:#{{ site.color.secondary }};} */
+    0% {border-color:#f1f1f1;} 
+    50% {border-color:#{{ site.color.primary }};} 
+}
