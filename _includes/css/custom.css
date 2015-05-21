@@ -251,3 +251,7 @@ animation-iteration-count:infinite;
     0% {border-color:#f1f1f1;} 
     50% {border-color:#{{ site.color.primary }};} 
 }
+
+section#contact {
+    background-image: none;
+}
