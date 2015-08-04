@@ -145,18 +145,6 @@ a.portfolio-link .see-more:hover{
     height: 100%;
 }
 
-.space-see-more{
-    opacity: 0;
-}
-
-.space-see-more:hover{
-    background: #{{ site.color.secondary }};
-    -webkit-transition: all ease .5s;
-    -moz-transition: all ease .5s;
-    transition: all ease .5s;
-    opacity: 0.9;
-}
-
 .fa-stack.final{
     width: 80px;
     height: 80px;
@@ -326,4 +314,16 @@ section#contact {
 
 #services * {
     z-index: 2;
+}
+
+.space-see-more{
+    opacity: 0;
+}
+
+.space-see-more:hover{
+    background: #{{ site.color.secondary }};
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+    opacity: 0.9;
 }
