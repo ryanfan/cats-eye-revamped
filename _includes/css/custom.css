@@ -82,7 +82,7 @@ header {
 }
 
 /*Hard-coded since currently cannot find fix*/
-#services .portfolio-item .portfolio-link .portfolio-hover {
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
     background: rgba(66,00,99,.9); /* Fallback when no plugin support */
 }
 
