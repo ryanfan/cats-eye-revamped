@@ -9,8 +9,8 @@ description: "Write an awesome description for your new site here. You can edit 
 # Color settings (hex-codes without the leading hash-tag)
 # http://www.colorhexa.com/
 color:
-  primary: "cc3366"
-  secondary: "a32952"
+  primary: "660099"
+  secondary: "440066"
   secondary-dark: 333
 
 # Team names, titles and social links
