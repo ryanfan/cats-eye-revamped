@@ -36,6 +36,22 @@ header {
     font-size: 33px;
 }
 
+.img-responsive.img-centered{
+    width: 100% \9;
+    max-width: 100%;
+}
+
+.img-responsive.img-centered.img-centered2{
+    width: 90% \9;
+    max-width: 90%;
+}
+
+.img-responsive.img-centered.img-centered3{
+    width: 80% \9;
+    max-width: 80%;
+}
+
+
 .timeline>li .timeline-image h4 {
     margin-top: 14px;
     font-size: 12px;
