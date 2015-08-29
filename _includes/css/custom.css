@@ -329,3 +329,7 @@ section#contact {
     transition: all ease .5s;
     opacity: 0.9;
 }
+
+.modal-content{
+    opacity: 0.9;
+}
