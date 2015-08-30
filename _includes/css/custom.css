@@ -101,12 +101,10 @@ header .intro-text img{
 }
 
 .portfolio-modal .close-modal {
-    position: fixed;
     top: 0px;
-    right: 2vw;
+    right: 0px;
     width: 45px;
     height: 45px;
-    z-index: 9999;
 }
 
 .portfolio-modal .close-modal .fa-2x{
@@ -116,12 +114,10 @@ header .intro-text img{
 
 @media (min-width: 768px){
     .portfolio-modal .close-modal {
-        position: fixed;
         top: 0px;
-        right: 2vw;
+        right: 0px;
         width: 60px;
         height: 60px;
-        z-index: 9999;
     }
     
     .portfolio-modal .close-modal .fa-2x{
