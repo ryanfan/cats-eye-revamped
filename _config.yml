@@ -19,9 +19,9 @@ people:
   pic: 1
   position: Co-Manager
   social:
-    - title: twitter
+    - title: twitter-square
       url: #
-    - title: linkedin
+    - title: linkedin-square
       url: #
     - title: envelope
       url: #
@@ -30,9 +30,9 @@ people:
   pic: 2
   position: Co-Manager
   social:
-    - title: twitter
+    - title: twitter-square
       url: #
-    - title: linkedin
+    - title: linkedin-square
       url: #
     - title: envelope
       url: #
@@ -40,13 +40,13 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
+  - title: twitter-square
     url: http://twitter.com/viccatseye
-  - title: facebook
+  - title: facebook-square
     url: https://www.facebook.com/thecatseye
   - title: flickr
     url: https://www.flickr.com/photos/129567669@N05/
-  - title: vimeo
+  - title: vimeo-square
     url: https://vimeo.com/thecatseye
 
 # Postal address (add as many lines as necessary)
