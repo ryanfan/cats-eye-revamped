@@ -15,11 +15,6 @@ A Subcommittee of 33 Victoria College students is selected annually in September
                         <h4>{{ member.name }}</h4>
                         <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                         <p class="text-muted">{{ member.position }}</p>
-                        <ul class="list-inline social-buttons">
-                            {% for network in member.social %}
-                            <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
-                            {% endfor %}
-                        </ul>
                     </div>
                 </div>
                 {% endfor %}
@@ -30,12 +25,6 @@ A Subcommittee of 33 Victoria College students is selected annually in September
                             <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
                         </a>
                         <p class="text-muted">2015-2016</p>
-                        <ul class="list-inline social-buttons">
-                            <li><a href="http://twitter.com/viccatseye"><i class="fa fa-twitter-square"></i></a>
-                            <li><a href="http://www.facebook.com/thecatseye"><i class="fa fa-facebook-square"></i></a>
-                            <li><a href="https://www.flickr.com/photos/129567669@N05/sets/"><i class="fa fa-flickr"></i></a>
-                            <li><a href="https://vimeo.com/thecatseye"><i class="fa fa-vimeo-square"></i></a> 
-                        </ul>
                     </div>
                 </div>
             </div>
