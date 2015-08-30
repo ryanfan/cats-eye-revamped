@@ -14,29 +14,115 @@ color:
   secondary-dark: 333
 
 # Team names, titles and social links
-people:
+exec:
 - name: Darren Cheng
-  pic: 1
+  pic: 1a
   position: Co-Manager
-  social:
-    - title: twitter-square
-      url: #
-    - title: linkedin-square
-      url: #
-    - title: envelope
-      url: #
 
 - name: Thomas Lynch
-  pic: 2
+  pic: 2a
   position: Co-Manager
-  social:
-    - title: twitter-square
-      url: #
-    - title: linkedin-square
-      url: #
-    - title: envelope
-      url: #
 
+subcommittee:
+ 
+- name: Rainbow Dash
+  pic: 3
+  
+- name: Daring Do
+  pic: 4
+
+- name: Princess Cadance
+  pic: 5
+
+- name: Discord
+  pic: 6
+
+- name: Photo Finish
+  pic: 7
+
+- name: Twilight Sparkle
+  pic: 8
+
+- name: Starlight Glimmer
+  pic: 9
+
+- name: Applejack
+  pic: 10
+
+- name: Prim Hemline
+  pic: 11
+
+- name: Rarity
+  pic: 12
+
+- name: Sonata Dusk
+  pic: 13
+
+- name: Princess Luna
+  pic: 14
+
+- name: Sunset Shimmer
+  pic: 15
+
+- name: Prince Blueblood
+  pic: 16
+
+- name: King Sombra
+  pic: 17
+
+- name: Adagio Dazzle
+  pic: 18
+
+- name: Fluttershy
+  pic: 19
+
+- name: Pinkie Pie
+  pic: 20
+
+- name: Shining Armor
+  pic: 21
+
+- name: Aria Blaze
+  pic: 22
+
+- name: Lord Tirek
+  pic: 23
+
+- name: Princess Celstia
+  pic: 24
+
+- name: Sweetie Belle
+  pic: 25
+
+- name: Scootaloo
+  pic: 26
+
+- name: Babs Seed
+  pic: 27
+
+- name: Fancy Pants
+  pic: 28
+
+- name: Hoity Toity
+  pic: 29
+
+- name: Apple Bloom
+  pic: 30
+
+- name: Nightmare Moon
+  pic: 31
+
+- name: Princess Amore
+  pic: 32
+
+- name: Queen Chrysalis
+  pic: 33
+
+- name: Sapphire Shores
+  pic: 34
+
+- name: Trenderhoof
+  pic: 35
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

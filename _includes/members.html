@@ -8,8 +8,15 @@
                         <h2>Members</h2>
                         <hr class="star-primary">
                         <!-- Content goes here-->
-
-                        
+                        {% for subcommittee in site.subcommittee %}
+                        <div class="col-md-15 col-sm-3">
+                            <div class="team-member">
+                                <h4 style="font-size:12px">{{ subcommittee.name }}</h4>
+                                <!--<img src="img/team/{{ subcommittee.pic }}.jpg" class="img-responsive img-circle" alt="">-->
+                                <img src="http://placehold.it/200x200?text={{ subcommittee.pic }}" class="img-responsive img-circle" alt="">
+                            </div>
+                        </div>
+                        {% endfor %}
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                     </div>
                 </div>
