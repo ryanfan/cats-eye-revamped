@@ -6,6 +6,7 @@ header .intro-text{
 header .intro-text .helper {
     display: inline-block;
     height: 100%;
+    min-height: 320px;
     vertical-align: middle;
 }
 
