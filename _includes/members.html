@@ -8,12 +8,14 @@
                         <h2>Members</h2>
                         <hr class="star-primary">
                         <!-- Content goes here-->
+                        <div class="row">
                         {% for subcommittee in site.subcommittee %}
                         <div class="col-xs-15 col-sm-15 col-md-15 col-lg-15 subcommittee">
                             <h4>{{ subcommittee.name }}</h4>
                             <img src="http://placehold.it/150x150?text={{ subcommittee.pic }}" class="img-circle" alt="">
                         </div>
                         {% endfor %}
+                        </div>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                     </div>
                 </div>
