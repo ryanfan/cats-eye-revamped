@@ -10,34 +10,34 @@ header .intro-text .helper {
 }
 
 header .intro-text img{
-    background-color: red;
+    background-color: inherit;
     width: 100%;
     max-width: 550px;
     vertical-align: middle;
     
 }
-
+/*
 @media(min-width:768px) {
 
     header .intro-text img{
-        background-color: blue;
+        background-color: inherit;
     }
 }
 
 @media (min-width: 992px){
     
     header .intro-text img{
-        background-color: cyan;
+        background-color: inherit;
     }
 }
 
 @media (min-width: 1200px){
     
     header .intro-text img{
-        background-color: green;
+        background-color: inherit;
     }
 }
-
+*/
 
 
 .navbar-default .navbar-brand {
