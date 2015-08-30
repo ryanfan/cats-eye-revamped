@@ -25,100 +25,100 @@ exec:
 
 subcommittee:
  
-- name: Rainbow Dash
+- name: RainbowDash
   pic: 3
   
-- name: Daring Do
+- name: DaringDo
   pic: 4
 
-- name: Princess Cadance
+- name: PrincessCadance
   pic: 5
 
 - name: Discord
   pic: 6
 
-- name: Photo Finish
+- name: PhotoFinish
   pic: 7
 
-- name: Twilight Sparkle
+- name: TwilightSparkle
   pic: 8
 
-- name: Starlight Glimmer
+- name: StarlightGlimmer
   pic: 9
 
 - name: Applejack
   pic: 10
 
-- name: Prim Hemline
+- name: PrimHemline
   pic: 11
 
 - name: Rarity
   pic: 12
 
-- name: Sonata Dusk
+- name: SonataDusk
   pic: 13
 
-- name: Princess Luna
+- name: PrincessLuna
   pic: 14
 
-- name: Sunset Shimmer
+- name: SunsetShimmer
   pic: 15
 
-- name: Prince Blueblood
+- name: PrinceBlueblood
   pic: 16
 
-- name: King Sombra
+- name: KingSombra
   pic: 17
 
-- name: Adagio Dazzle
+- name: AdagioDazzle
   pic: 18
 
 - name: Fluttershy
   pic: 19
 
-- name: Pinkie Pie
+- name: PinkiePie
   pic: 20
 
-- name: Shining Armor
+- name: ShiningArmor
   pic: 21
 
-- name: Aria Blaze
+- name: AriaBlaze
   pic: 22
 
-- name: Lord Tirek
+- name: LordTirek
   pic: 23
 
-- name: Princess Celstia
+- name: PrincessCelstia
   pic: 24
 
-- name: Sweetie Belle
+- name: SweetieBelle
   pic: 25
 
 - name: Scootaloo
   pic: 26
 
-- name: Babs Seed
+- name: BabsSeed
   pic: 27
 
-- name: Fancy Pants
+- name: FancyPants
   pic: 28
 
-- name: Hoity Toity
+- name: HoityToity
   pic: 29
 
-- name: Apple Bloom
+- name: AppleBloom
   pic: 30
 
-- name: Nightmare Moon
+- name: NightmareMoon
   pic: 31
 
-- name: Princess Amore
+- name: PrincessAmore
   pic: 32
 
-- name: Queen Chrysalis
+- name: QueenChrysalis
   pic: 33
 
-- name: Sapphire Shores
+- name: SapphireShores
   pic: 34
 
 - name: Trenderhoof
