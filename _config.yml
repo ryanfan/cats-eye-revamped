@@ -3,8 +3,8 @@ baseurl: "/cats-eye-revamped/"
 
 # Site settings
 title: The Cat's Eye
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: "&#109;&#097;&#110;&#097;&#103;&#101;&#114;&#064;&#116;&#104;&#101;&#099;&#097;&#116;&#115;&#101;&#121;&#101;&#046;&#099;&#097;"
+description: "The Cat's Eye is Victoria College's student-run lounge and pub. Come hang out with friends, study, or play games. The space is also available for booking for Victoria College groups."
 
 # Color settings (hex-codes without the leading hash-tag)
 # http://www.colorhexa.com/
