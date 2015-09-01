@@ -4,8 +4,8 @@ subtitle:
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: pubnight.png
-thumbnail: pubnight-thumbnail.png
+img: pubnight2.png
+thumbnail: pubnight.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
