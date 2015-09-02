@@ -49,9 +49,16 @@ header .intro-text img{
     font-size: 33px;
 }
 
+#portfolio img.img-responsive{
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(1);
+}
+
 .img-responsive.img-centered{
-    width: 80% \9;
-    max-width: 80%;
+    width: 100%;
+    max-width: 600px;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(1);
 }
 
 

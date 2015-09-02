@@ -4,8 +4,8 @@ subtitle:
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: concert2.png
-thumbnail: concert2.png
+img:    concert.png
+thumbnail: concert.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

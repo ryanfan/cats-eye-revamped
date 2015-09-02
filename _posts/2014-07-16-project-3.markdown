@@ -4,7 +4,7 @@ subtitle:
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: pubnight2.png
+img: pubnight.png
 thumbnail: pubnight.png
 alt: image-alt
 project-date: April 2014
