@@ -172,7 +172,7 @@ a.portfolio-link .see-more:hover{
     height: 60vw;
     overflow: hidden;
     margin: auto;
-    max-width:510px;
+    max-height:510px;
     max-width:100%;
 }
  
@@ -181,7 +181,6 @@ a.portfolio-link .see-more:hover{
     height: 60vw;
     max-width:100%;
 }
-
 
 .form-container {
     position: relative;
