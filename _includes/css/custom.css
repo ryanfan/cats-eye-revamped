@@ -166,6 +166,23 @@ a.portfolio-link .see-more:hover{
     height: 100%;
 }
 
+.calendar-container2{
+    position: relative;
+    width: 80vw;
+    height: 60vw;
+    overflow: hidden;
+    margin: auto;
+    max-width:510px;
+    max-width:100%;
+}
+ 
+.calendar-container2 iframe{
+    width: 80vw;
+    height: 60vw;
+    max-width:100%;
+}
+
+
 .form-container {
     position: relative;
     padding-bottom: 100%;
