@@ -25,6 +25,7 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
     
+    <!--favicons-->
     <link rel="apple-touch-icon" sizes="57x57" href="{{ "/img/favicons/apple-touch-icon-57x57.png" | prepend: site.baseurl }}">
     <link rel="apple-touch-icon" sizes="60x60" href="{{ "/img/favicons/apple-touch-icon-60x60.png" | prepend: site.baseurl }}">
     <link rel="apple-touch-icon" sizes="72x72" href="{{ "/img/favicons/apple-touch-icon-72x72.png" | prepend: site.baseurl }}">
@@ -42,4 +43,9 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="msapplication-TileImage" content="/mstile-144x144.png">
     <meta name="theme-color" content="#ffffff">
+    
+    <meta property="og:site_name" content="{{ site.title }}"/>
+    <meta property="og:description" content="{{ site.description }}"/>
+    <meta property="og:image" content="{{ "/img/favicons/apple-touch-icon-180x180.png" | prepend: site.baseurl }}">
+    <meta property="og:url" content="{{ site.url }}">
 </head>
