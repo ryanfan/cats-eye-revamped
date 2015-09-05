@@ -50,8 +50,8 @@ header .intro-text img{
 }
 
 #portfolio img.img-responsive{
-    filter: grayscale(100%);
-    -webkit-filter: grayscale(1);
+    filter: grayscale(50%);
+    -webkit-filter: grayscale(0.5);
 }
 
 .img-responsive.img-centered{
