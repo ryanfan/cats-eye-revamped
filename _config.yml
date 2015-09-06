@@ -1,6 +1,6 @@
 url: "http://thecatseye.github.io"
 baseurl: "/cats-eye-revamped/"
-maintenance: 1
+maintenance: 0
 
 #url: https://thecatseye.ca   # with the https protocol
 #enforce_ssl: thecatseye.ca   # without any protocol
