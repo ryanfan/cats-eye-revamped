@@ -3,7 +3,19 @@
 
   {% include head.html %}
 
-
+  {% if site.maintenance == 1 %}
+    
+    <body style="background-color:black">
+        <header>
+            <div class="container">
+                <div class="intro-text">
+                    <span class="helper"></span><img src="img/header-short8.png">
+                </div>
+            </div>
+        </header>
+    </body>
+    
+  {% else %}
     <body id="page-top" class="index">
 
     {% include header.html %}
@@ -21,4 +33,5 @@
     {% include js.html %}
 
     </body>
+  {% endif %}
 </html>
