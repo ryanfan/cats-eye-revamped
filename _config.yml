@@ -3,9 +3,6 @@ url: https://thecatseye.ca   # with the https protocol
 enforce_ssl: thecatseye.ca   # without any protocol
 maintenance: 0
 
-#url: https://thecatseye.ca   # with the https protocol
-#enforce_ssl: thecatseye.ca   # without any protocol
-
 # Site settings
 title: The Cat's Eye
 email: "&#109;&#097;&#110;&#097;&#103;&#101;&#114;&#064;&#116;&#104;&#101;&#099;&#097;&#116;&#115;&#101;&#121;&#101;&#046;&#099;&#097;"
@@ -30,103 +27,103 @@ exec:
 
 subcommittee:
  
-- name: Rainbow Dash
+- name: Aimee L
   pic: 3
   
-- name: Daring Do
+- name: Alisa M
   pic: 4
 
-- name: Princess Cadance
+- name: Alisha T
   pic: 5
 
-- name: Discord
+- name: Ana A
   pic: 6
 
-- name: Photo Finish
+- name: Apurva K
   pic: 7
 
-- name: Twilight Sparkle
+- name: Chelsea S
   pic: 8
 
-- name: Starlight Glimmer
+- name: Clara R
   pic: 9
 
-- name: Applejack
+- name: Daniel A
   pic: 10
 
-- name: Prim Hemline
+- name: Daniel N
   pic: 11
 
-- name: Rarity
+- name: Diana V
   pic: 12
 
-- name: Sonata Dusk
+- name: Edward D
   pic: 13
 
-- name: Princess Luna
+- name: Elly G
   pic: 14
 
-- name: Sunset Shimmer
+- name: Fosta S
   pic: 15
 
-- name: Prince Blueblood
+- name: Gabrielle G
   pic: 16
 
-- name: King Sombra
+- name: Garnet L
   pic: 17
 
-- name: Adagio Dazzle
+- name: Hannah B
   pic: 18
 
-- name: Fluttershy
+- name: Isidora A
   pic: 19
 
-- name: Pinkie Pie
+- name: Jacob K
   pic: 20
 
-- name: Shining Armor
+- name: Jahnavi S
   pic: 21
 
-- name: Aria Blaze
+- name: Julia G
   pic: 22
 
-- name: Lord Tirek
+- name: Juliana J
   pic: 23
 
-- name: Princess Celestia
+- name: Katie P
   pic: 24
 
-- name: Sweetie Belle
+- name: Madison L
   pic: 25
 
-- name: Scootaloo
+- name: Mercer P
   pic: 26
 
-- name: Babs Seed
+- name: Nicole C
   pic: 27
 
-- name: Fancy Pants
+- name: Nicole G
   pic: 28
 
-- name: Hoity Toity
+- name: Ryan F
   pic: 29
 
-- name: Apple Bloom
+- name: Seraphina V
   pic: 30
 
-- name: Nightmare Moon
+- name: Sharon W
   pic: 31
 
-- name: Princess Amore
+- name: Stefan V
   pic: 32
 
-- name: Queen Chrysalis
+- name: Sudarshan B
   pic: 33
 
-- name: Sapphire Shores
+- name: Wenting P
   pic: 34
 
-- name: Trenderhoof
+- name: Zayneb R
   pic: 35
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

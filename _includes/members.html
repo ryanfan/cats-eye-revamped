@@ -5,18 +5,18 @@
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1">
                     <div class="modal-body">
-                        <h2>Members</h2>
+                        <h2>2015-2016 Subcommittee</h2>
                         <hr class="star-primary">
                         <!-- Content goes here-->
-                        <p style="margin-top: 90px;">Applications for the 2015-2016 Cat's Eye Subcommittee are out! Fill out <a href="ce_app.docx">this form</a> and email it back to us, or drop it off at our mailbox in the VUSAC office.</p>
-                        <!--<div class="row">
+                        <!--<p style="margin-top: 90px;">Applications for the 2015-2016 Cat's Eye Subcommittee are out! Fill out <a href="ce_app.docx">this form</a> and email it back to us, or drop it off at our mailbox in the VUSAC office.</p>-->
+                        <div class="row">
                         {% for subcommittee in site.subcommittee %}
                         <div class="col-xs-15 col-sm-15 col-md-15 col-lg-15 subcommittee">
                             <h4 style="white-space: nowrap ;"><br>{{ subcommittee.name }}</h4>
                             <img src="http://placehold.it/150x150?text={{ subcommittee.pic }}" class="img-circle" alt="">
                         </div>
                         {% endfor %}
-                        </div>-->
+                        </div>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                     </div>
                 </div>
