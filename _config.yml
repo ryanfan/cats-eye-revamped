@@ -19,11 +19,11 @@ color:
 exec:
 - name: Darren Cheng
   pic: CEDarrenC
-  position: Co-Manager
+  position: Senior Co-Manager
 
 - name: Thomas Lynch
   pic: CEThomasL
-  position: Co-Manager
+  position: Junior Co-Manager
 
 subcommittee:
 
@@ -34,7 +34,7 @@ subcommittee:
   pic: CEAlisaM
 
 - name: Alisha T
-  pic: CEALishaT
+  pic: CEAlishaT
 
 - name: Ana A
   pic: CEAnaA
@@ -54,6 +54,9 @@ subcommittee:
 - name: Daniel N
   pic: CEDanielN
 
+- name: Darren C
+  pic: CEDarrenC
+
 - name: Diana V
   pic: CEDianaV
 
@@ -61,7 +64,7 @@ subcommittee:
   pic: CEEdwardD
 
 - name: Elly G
-  pic: CEllyG
+  pic: CEEllyG
 
 - name: Fosta S
   pic: CEFostaS
@@ -119,6 +122,9 @@ subcommittee:
 
 - name: Sudarshan B
   pic: CESudarshanB
+
+- name: Thomas L
+  pic: CEThomasL
 
 - name: Wenting P
   pic: CEWentingP
