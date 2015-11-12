@@ -40,16 +40,16 @@ subcommittee:
   pic: CEAnaA
 
 - name: Apurva K
-  pic: 
+  pic: CEApurvaK
 
 - name: Chelsea S
-  pic: 
+  pic: CEChelseaS
 
 - name: Clara R
   pic: CEClaraR
 
 - name: Daniel A
-  pic: 
+  pic: CEDanielA
 
 - name: Daniel N
   pic: CEDanielN
@@ -58,7 +58,7 @@ subcommittee:
   pic: CEDarrenC
 
 - name: Diana V
-  pic: 
+  pic: CEDianaV
 
 - name: Edward D
   pic: CEEdwardD
@@ -79,13 +79,13 @@ subcommittee:
   pic: CEHannahB
 
 - name: Isidora A
-  pic: 
+  pic: CEIsidoraA
 
 - name: Jacob K
-  pic: 
+  pic: CEJacobK
 
 - name: Jahnavi S
-  pic: 
+  pic: CEJahnaviS
 
 - name: Julia G
   pic: CEJuliaG
@@ -97,22 +97,22 @@ subcommittee:
   pic: CEKatieP
 
 - name: Madison L
-  pic: 
+  pic: CEMadisonL
 
 - name: Mercer P
-  pic: 
+  pic: CEMercerP
 
 - name: Nicole C
   pic: CENicoleC
 
 - name: Nicole G
-  pic: 
+  pic: CENicoleG
 
 - name: Ryan F
-  pic: 
+  pic: CERyanF
 
 - name: Seraphina V
-  pic: 
+  pic: CESeraphinaV
 
 - name: Sharon W
   pic: CESharonW
@@ -127,10 +127,10 @@ subcommittee:
   pic: CEThomasL
 
 - name: Wenting P
-  pic: 
+  pic: CEWentingP
 
 - name: Zayneb R
-  pic: 
+  pic: CEZynebR
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
