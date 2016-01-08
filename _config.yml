@@ -17,12 +17,12 @@ color:
 
 # Team names, titles and social links
 exec:
-- name: Darren Cheng
-  pic: CEDarrenC
-  position: Senior Co-Manager
-
 - name: Thomas Lynch
   pic: CEThomasL
+  position: Senior Co-Manager
+
+- name: Jordan LoMonaco
+  pic: CEJordanL
   position: Junior Co-Manager
 
 subcommittee:
@@ -87,6 +87,9 @@ subcommittee:
 - name: Jahnavi S
   pic: CEJahnaviS
 
+- name: Jordan L
+  pic: CEJordanL
+
 - name: Julia G
   pic: CEJuliaG
 
@@ -110,9 +113,6 @@ subcommittee:
 
 - name: Ryan F
   pic: CERyanF
-
-- name: Seraphina V
-  pic: CESeraphinaV
 
 - name: Sharon W
   pic: CESharonW
