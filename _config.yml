@@ -17,12 +17,12 @@ color:
 
 # Team names, titles and social links
 exec:
-- name: Thomas Lynch
-  pic: CEThomasL
-  position: Senior Co-Manager
-
 - name: Jordan LoMonaco
   pic: CEJordanL
+  position: Senior Co-Manager
+
+- name: Zayneb Raghei
+  pic: CEZaynebR
   position: Junior Co-Manager
 
 subcommittee:
