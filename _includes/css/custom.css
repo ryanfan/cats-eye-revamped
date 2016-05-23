@@ -35,6 +35,7 @@ header .intro-text img{
     background-color: inherit;
     width: 100%;
     max-width: 1500px;
+    max-height: 95vh;
     vertical-align: middle;
     
 }

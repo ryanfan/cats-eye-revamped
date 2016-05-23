@@ -132,6 +132,21 @@ subcommittee:
 - name: Zayneb R
   pic: CEZaynebR
 
+# Carousel images (add as many lines as necessary)
+carousel:
+- index: 0
+  pic: img/header-short7.png #The Cat's Eye Banner Image
+- index: 1
+  pic: img/carousel/1.jpg
+- index: 2
+  pic: img/carousel/2.jpg
+- index: 3
+  pic: img/carousel/3.jpg
+- index: 4
+  pic: img/carousel/4.jpg
+- index: 5
+  pic: img/carousel/5.jpg
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter-square
@@ -152,7 +167,7 @@ address:
   - line: Toronto, ON, Canada
   - line: M5S 1K9
 
-# Postal address (add as many lines as necessary)
+# Past managers (add as many lines as necessary)
 past_managers:
   - name: Zayneb Ragheai
   - name: Jordan LoMonaco
