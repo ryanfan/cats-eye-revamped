@@ -135,13 +135,15 @@ subcommittee:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter-square
-    url: http://twitter.com/viccatseye
+    url: https://twitter.com/viccatseye
   - title: facebook-square
     url: https://www.facebook.com/thecatseye
   - title: flickr
-    url: https://www.flickr.com/photos/129567669@N05/
+    url: https://www.flickr.com/photos/129567669@N05
   - title: vimeo-square
     url: https://vimeo.com/thecatseye
+  - title: instagram
+    url: https://www.instagram.com/viccatseye
 
 # Postal address (add as many lines as necessary)
 address:
@@ -149,6 +151,29 @@ address:
   - line: 150 Charles Street West
   - line: Toronto, ON, Canada
   - line: M5S 1K9
+
+# Postal address (add as many lines as necessary)
+past_managers:
+  - name: Zayneb Ragheai
+  - name: Jordan LoMonaco
+  - name: Thomas Lynch
+  - name: Darren Cheng
+  - name: Sabina Freiman
+  - name: Sadia Awan
+  - name: Karl Cadonic
+  - name: Lucas Fejes
+  - name: Katrina Vogan
+  - name: Megan Tangney
+  - name: Naomi Lam 
+  - name: Savannah Sloat 
+  - name: Kenny Zhan 
+  - name: Sonya Snyder
+  - name: Adam Malek
+  - name: Brandon Bailey
+  - name: Carlo Vinco
+  - name: Matt Thorpe 
+  - name: Nader Farhat 
+  - name: Nick Kelly
 
 # Build settings
 markdown: kramdown
