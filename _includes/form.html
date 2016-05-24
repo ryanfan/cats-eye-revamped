@@ -11,8 +11,8 @@
                         <hr class="star-primary">
                         <!-- Content goes here-->
                         
-                        <div class="calendar-container" style="margin-bottom:30px;">
-                            <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src={{ site.email }}&amp;color=%2328754E&amp;ctz=America%2FToronto" style=" border-width:0; width:100%; height:510px; overflow:hidden; " >Loading...</iframe>
+                        <div class="embed-container">
+                            <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src={{ site.email }}&amp;color=%2328754E&amp;ctz=America%2FToronto">Loading...</iframe>
                         </div>
                         <!--<div class="calendar-container2" style="margin-bottom:30px;">
                             <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src={{ site.email }}&amp;color=%2328754E&amp;ctz=America%2FToronto" style=" border-width:0; width: 80vw; height: 60vw; max-width:680px; max-height:510px; margin:auto" >Loading...</iframe>
@@ -35,24 +35,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        
-                        <div class="visible-xs">
-                        <p style="margin-top: 90px;">Your window is too small, the direct link to our booking form is <a href="https://docs.google.com/forms/d/1GBO87TYmsD59Alb_qRj7IhEMubPEml9wFiB1FR2B63M/viewform" style="font-weight:700">here</a>.</p>
-                        </div>
-                        
-                        <div class="hidden-xs">
+                    <div class="modal-body">                    
+
                         <p style="margin-top: 90px;">For a direct link to our booking form, click <a href="https://docs.google.com/forms/d/1GBO87TYmsD59Alb_qRj7IhEMubPEml9wFiB1FR2B63M/viewform" style="font-weight:700">here</a>.</p>
-                        </div>
+
                         
                         <hr class="star-primary">
                         <!-- Content goes here-->
                         
-                        <div class="hidden-xs">
-                        <div class="form-container">
+
+                        <div class="embed-container" style="padding-bottom: 100%;">
                         <iframe src="https://docs.google.com/a/thecatseye.ca/forms/d/1GBO87TYmsD59Alb_qRj7IhEMubPEml9wFiB1FR2B63M/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
                         </div>
-                        </div>
+
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                     </div>
                 </div>

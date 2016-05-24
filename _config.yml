@@ -168,9 +168,8 @@ address:
   - line: M5S 1K9
 
 # Past managers (add as many lines as necessary)
+# Newest to oldest
 past_managers:
-  - name: Zayneb Ragheai
-  - name: Jordan LoMonaco
   - name: Thomas Lynch
   - name: Darren Cheng
   - name: Sabina Freiman
