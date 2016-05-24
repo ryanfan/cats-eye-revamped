@@ -26,17 +26,12 @@
                             <h4 style="color:#fff; font-weight: 400">Toronto, ON, Canada </h4>
                             <h4 style="color:#fff; font-weight: 400">M5S 1K9</h4>
                             <br>
-                            <h3 style="color:#fff">Hours of Operation</h4>
+                            <h3 style="color:#fff">Hours of Operation</h3>
                             <h4 style="color:#fff; font-weight: 400">Monday 09:00AM - 11:00PM</h4>
                             <h4 style="color:#fff; font-weight: 400">Tuesday 09:00AM - 11:00PM</h4>
                             <h4 style="color:#fff; font-weight: 400">Wednesday 09:00AM - 11:00PM</h4>
                             <h4 style="color:#fff; font-weight: 400">Thursday 09:00AM - 11:00PM</h4>
                             <h4 style="color:#fff; font-weight: 400">Friday 09:00AM - 11:00PM</h4>
-                            <br>
-                            <h3 style="color:#fff">Past Managers</h4>
-                            {% for past_manager in site.past_managers %}
-                            <h4 style="color:#fff; font-weight: 400">{{ past_manager.name }}</h4>
-                            {% endfor %}
                         </div>
                         <div class="col-md-6">
                             <div class="container"></div>
@@ -60,6 +55,15 @@
                                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2886.0597382629594!2d-79.3930014!3d43.66772739999999!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34baecec7ae3%3A0xc6d5f559dcd115a5!2s150+Charles+St+W%2C+University+of+Toronto+-+St.+George+Campus%2C+Toronto%2C+ON+M5S+1K9!5e0!3m2!1sen!2sca!4v1420338591823" width="400" height="300" frameborder="0" style="border:0">                                 </iframe>
                             </div>
                         </div>
+                    </div>
+                    <br><br><br><br>
+                    <div class="row">
+                        <h3 style="color:#fff">Past Managers</h3>
+                        {% for past_manager in site.past_managers %}
+                        <div class="col-md-3">
+                            <h4 style="color:#fff; font-weight: 400">{{ past_manager.name }}</h4>
+                        </div>
+                        {% endfor %}
                     </div>
                 </div>
             </div>
