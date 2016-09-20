@@ -48,20 +48,20 @@ subcommittee:
 - name: Brandon
   pic:  brandon 
 
-- name: Dimitri
-  pic:  dimitri
+- name: Dimitris
+  pic:  dimitris
 
 - name: Elly
   pic:  elly
 
 - name: Emma
-  pic:  emma
+  pic:
 
 - name: Gabby
   pic:  gabby
 
 - name: Gem
-  pic:  gem
+  pic:
 
 - name: Ibaa
   pic:  ibaa
