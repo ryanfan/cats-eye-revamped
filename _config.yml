@@ -28,109 +28,109 @@ exec:
 subcommittee:
 
 - name: Aimee
-  pic:  aimee.jpg 
+  pic:  aimee 
 
 - name: Ali
-  pic:  ali.jpg
+  pic:  ali
 
 - name: Anthony
-  pic:  anthony.jpg
+  pic:  anthony
 
 - name: Artimes
-  pic:  artimes.jpg
+  pic:  artimes
 
 - name: Ashley
-  pic:  ashley.jpg
+  pic:  ashley
 
 - name: Berenice
-  pic:  berenice.jpg
+  pic:  berenice
 
 - name: Brandon
-  pic:  brandon.jpg 
+  pic:  brandon 
 
 - name: Dimitri
-  pic:  dimitri.jpg
+  pic:  dimitri
 
 - name: Elly
-  pic:  elly.jpg
+  pic:  elly
 
 - name: Emma
-  pic:  emma.jpg
+  pic:  emma
 
 - name: Gabby
-  pic:  gabby.jpg
+  pic:  gabby
 
 - name: Gem
-  pic:  gem.jpg
+  pic:  gem
 
 - name: Ibaa
-  pic:  ibaa.jpg
+  pic:  ibaa
 
 - name: Ioana
-  pic:  ioana.jpg
+  pic:  ioana
 
 - name: Isha
-  pic:  isha.jpg
+  pic:  isha
 
 - name: Isidora
-  pic:  isidora.jpg
+  pic:  isidora
 
 - name: Julia
-  pic:  julia.jpg
+  pic:  julia
 
 - name: Katie
-  pic:  katie.jpg
+  pic:  katie
 
 - name: Keely
-  pic:  keely.jpg
+  pic:  keely
 
 - name: Kyle
-  pic:  kyle.jpg
+  pic:  kyle
 
 - name: Liam F
-  pic:  liam_f.jpg
+  pic:  liam_f
 
 - name: Liam T
-  pic:  liam_t.jpg
+  pic:  liam_t
 
 - name: Lim
-  pic:  lim.jpg
+  pic:  lim
 
 - name: Madelaine
-  pic:  madelaine.jpg
+  pic:  madelaine
 
 - name: Marjan
-  pic:  marjan.jpg
+  pic:  marjan
 
 - name: Nicole
-  pic:  nicole.jpg
+  pic:  nicole
 
 - name: Sharon
-  pic:  sharon.jpg
+  pic:  sharon
 
 - name: Stefan
-  pic:  stefan.jpg
+  pic:  stefan
 
 - name: Steve
-  pic:  steve.jpg
+  pic:  steve
 
 - name: Suzanne
-  pic:  suzanne.jpg
+  pic:  suzanne
 
 - name: Tanuj
-  pic:  tanuj.jpg
+  pic:  tanuj
 
 - name: Taylor
-  pic:  taylor.jpg
+  pic:  taylor
 
 - name: Zach
-  pic:  zach.jpg
+  pic:  zach
 
 - name: Zoe K
-  pic:  zoe_k.jpg
+  pic:  zoe_k
 
 - name: Zoe R
-  pic:  zoe_r.jpg
+  pic:  zoe_r
 
 # Carousel images (add as many lines as necessary)
 carousel:
