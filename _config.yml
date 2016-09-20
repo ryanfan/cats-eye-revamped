@@ -27,110 +27,110 @@ exec:
 
 subcommittee:
 
-- name: Aimee L
-  pic: CEAimeeL
+- name: Aimee
+  pic:  aimee.jpg 
 
-- name: Alisa M
-  pic: 
+- name: Ali
+  pic:  ali.jpg
 
-- name: Alisha T
-  pic: CEAlishaT
+- name: Anthony
+  pic:  anthony.jpg
 
-- name: Ana A
-  pic: CEAnaA
+- name: Artimes
+  pic:  artimes.jpg
 
-- name: Apurva K
-  pic: CEApurvaK
+- name: Ashley
+  pic:  ashley.jpg
 
-- name: Chelsea S
-  pic: CEChelseaS
+- name: Berenice
+  pic:  berenice.jpg
 
-- name: Clara R
-  pic: CEClaraR
+- name: Brandon
+  pic:  brandon.jpg 
 
-- name: Daniel A
-  pic: CEDanielA
+- name: Dimitri
+  pic:  dimitri.jpg
 
-- name: Daniel N
-  pic: CEDanielN
+- name: Elly
+  pic:  elly.jpg
 
-- name: Darren C
-  pic: CEDarrenC
+- name: Emma
+  pic:  emma.jpg
 
-- name: Diana V
-  pic: CEDianaV
+- name: Gabby
+  pic:  gabby.jpg
 
-- name: Edward D
-  pic: CEEdwardD
+- name: Gem
+  pic:  gem.jpg
 
-- name: Elly G
-  pic: CEEllyG
+- name: Ibaa
+  pic:  ibaa.jpg
 
-- name: Fosta S
-  pic: CEFostaS
+- name: Ioana
+  pic:  ioana.jpg
 
-- name: Gabrielle G
-  pic: 
+- name: Isha
+  pic:  isha.jpg
 
-- name: Garnet L
-  pic: CEGarnetL
+- name: Isidora
+  pic:  isidora.jpg
 
-- name: Hannah B
-  pic: CEHannahB
+- name: Julia
+  pic:  julia.jpg
 
-- name: Isidora A
-  pic: CEIsidoraA
+- name: Katie
+  pic:  katie.jpg
 
-- name: Jacob K
-  pic: CEJacobK
+- name: Keely
+  pic:  keely.jpg
 
-- name: Jahnavi S
-  pic: CEJahnaviS
+- name: Kyle
+  pic:  kyle.jpg
 
-- name: Jordan L
-  pic: CEJordanL
+- name: Liam F
+  pic:  liam_f.jpg
 
-- name: Julia G
-  pic: CEJuliaG
+- name: Liam T
+  pic:  liam_t.jpg
 
-- name: Juliana J
-  pic: 
+- name: Lim
+  pic:  lim.jpg
 
-- name: Katie P
-  pic: CEKatieP
+- name: Madelaine
+  pic:  madelaine.jpg
 
-- name: Madison L
-  pic: CEMadisonL
+- name: Marjan
+  pic:  marjan.jpg
 
-- name: Mercer P
-  pic: CEMercerP
+- name: Nicole
+  pic:  nicole.jpg
 
-- name: Nicole C
-  pic: CENicoleC
+- name: Sharon
+  pic:  sharon.jpg
 
-- name: Nicole G
-  pic: CENicoleG
+- name: Stefan
+  pic:  stefan.jpg
 
-- name: Ryan F
-  pic: CERyanF
+- name: Steve
+  pic:  steve.jpg
 
-- name: Sharon W
-  pic: CESharonW
+- name: Suzanne
+  pic:  suzanne.jpg
 
-- name: Stefan V
-  pic: CEStefanV
+- name: Tanuj
+  pic:  tanuj.jpg
 
-- name: Sudarshan B
-  pic: CESudarshanB
+- name: Taylor
+  pic:  taylor.jpg
 
-- name: Thomas L
-  pic: CEThomasL
+- name: Zach
+  pic:  zach.jpg
 
-- name: Wenting P
-  pic: CEWentingP
+- name: Zoe K
+  pic:  zoe_k.jpg
 
-- name: Zayneb R
-  pic: CEZaynebR
+- name: Zoe R
+  pic:  zoe_r.jpg
 
 # Carousel images (add as many lines as necessary)
 carousel:
