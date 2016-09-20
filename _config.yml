@@ -18,11 +18,11 @@ color:
 # Team names, titles and social links
 exec:
 - name: Jordan LoMonaco
-  pic: CEJordanL
+  pic: jordan
   position: Senior Co-Manager
 
 - name: Zayneb Ragheai
-  pic: CEZaynebR
+  pic: zayneb
   position: Junior Co-Manager
 
 subcommittee:
@@ -75,6 +75,9 @@ subcommittee:
 - name: Isidora
   pic:  isidora
 
+- name: Jordan
+  pic:  jordan
+
 - name: Julia
   pic:  julia
 
@@ -125,6 +128,9 @@ subcommittee:
 
 - name: Zach
   pic:  
+
+- name: Zayneb
+  pic:  zayneb
 
 - name: Zoe K
   pic:  zoe_k
