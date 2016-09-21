@@ -55,13 +55,13 @@ subcommittee:
   pic:  elly
 
 - name: Emma
-  pic:
+  pic:  emma
 
 - name: Gabby
   pic:  gabby
 
 - name: Gem
-  pic:
+  pic:  gem
 
 - name: Ibaa
   pic:  ibaa
@@ -118,7 +118,7 @@ subcommittee:
   pic:  steve
 
 - name: Suzanne
-  pic:  
+  pic:  suzanne
 
 - name: Tanuj
   pic:  tanuj
