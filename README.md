@@ -1,3 +1,17 @@
+Cat's Eye Website
+
+Install Jekyll first
+
+Assumed prior knowledge of git.  Push all changes to `gh-pages` branch.
+
+Subcommittee names can be updated in the `_config.yml` with the corresponding images
+
+Color can be set at once in the `_config.yml` and will be applied throughout the whole web page.
+
+To run locally, in your command line, run `jekyll serve --baseurl=""`
+
+How to update:
+
 Agency Jekyll theme
 ====================
 

@@ -38,3 +38,6 @@ Icon
 
 # Jekyll metadata
 .jekyll-metadata
+
+#WebStorm IDE metadata
+.idea/
