@@ -176,6 +176,7 @@ address:
 # Past managers (add as many lines as necessary)
 # Newest to oldest
 past_managers:
+  - name: Jordan LoMonaco
   - name: Thomas Lynch
   - name: Darren Cheng
   - name: Sabina Freiman
