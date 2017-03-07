@@ -17,12 +17,12 @@ color:
 
 # Team names, titles and social links
 exec:
-- name: Jordan LoMonaco
-  pic: jordan
-  position: Senior Co-Manager
-
 - name: Zayneb Ragheai
   pic: zayneb
+  position: Senior Co-Manager
+
+- name: Ali Kehl
+  pic: ali
   position: Junior Co-Manager
 
 subcommittee:
