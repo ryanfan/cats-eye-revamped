@@ -18,11 +18,11 @@ color:
 # Team names, titles and social links
 exec:
 - name: Berenice Alvarez
-  pic: Berenice
+  pic: berenice
   position: Senior Co-Manager
 
 - name: Maxwell Nisbeth
-  pic: Maxwell
+  pic: maxwell
   position: Junior Co-Manager
 
 subcommittee:
@@ -50,9 +50,6 @@ subcommittee:
 
 - name: Aya
   pic:  Aya
-
-- name: Berenice
-  pic:  berenice
 
 - name: Caitie
   pic:  Catie
@@ -101,9 +98,6 @@ subcommittee:
 
 - name: Masha
   pic:  Masha
-
-- name: Maxwell
-  pic:  maxwell
 
 - name: Melinda
   pic:  Melinda
