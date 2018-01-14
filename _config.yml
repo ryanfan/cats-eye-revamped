@@ -18,125 +18,119 @@ color:
 # Team names, titles and social links
 exec:
 - name: Berenice Alvarez
-  pic: berenice
+  pic: Berenice
   position: Senior Co-Manager
 
 - name: Maxwell Nisbeth
-  pic: maxwell
+  pic: Maxwell
   position: Junior Co-Manager
 
 subcommittee:
 
-- name: Aimee
-  pic:  aimee 
+- name: Abera
+  pic:  Abera 
 
 - name: Ali
-  pic:  ali
+  pic:  Ali
 
-- name: Anthony
-  pic:  anthony
+- name: Aloysius
+  pic:  Aloysius
 
-- name: Artimes
-  pic:  artimes
+- name: Ana
+  pic:  Ana
+
+- name: Anna
+  pic:  Anna
 
 - name: Ashley
-  pic:  ashley
+  pic:  Ashley
+
+- name: Ashley F.
+  pic:  Ashley_fung
+
+- name: Aya
+  pic:  Aya
 
 - name: Berenice
-  pic:  berenice
+  pic:  Berenice
 
-- name: Brandon
-  pic:  brandon 
+- name: Catie
+  pic:  Catie
 
-- name: Dimitris
-  pic:  dimitris
+- name: Chris
+  pic:  Chris
 
-- name: Elly
-  pic:  elly
+- name: Cindy
+  pic:  Cindy
 
-- name: Emma
-  pic:  emma
+- name: Cy
+  pic:  Cy
+
+- name: Emily
+  pic:  Emily
+
+- name: Erin
+  pic:  Erin
+
+- name: Eugene
+  pic:  Eugene
 
 - name: Gabby
-  pic:  gabby
+  pic:  Gabby
 
-- name: Gem
-  pic:  gem
-
-- name: Ibaa
-  pic:  ibaa
-
-- name: Ioana
-  pic:  ioana
+- name: Helen
+  pic:  Helen
 
 - name: Isha
-  pic:  isha
+  pic:  Isha
 
 - name: Isidora
-  pic:  isidora
+  pic:  Isidora
 
-- name: Jordan
-  pic:  jordan
-
-- name: Julia
-  pic:  julia
+- name: James
+  pic:  James
 
 - name: Katie
-  pic:  katie
+  pic:  Katie
 
-- name: Keely
-  pic:  keely
+- name: Kevin
+  pic:  Kevin
 
-- name: Kyle
-  pic:  kyle
+- name: Landon
+  pic:  Landon
 
-- name: Liam F
-  pic:  liam_f
+- name: Masha
+  pic:  Masha
 
-- name: Liam T
-  pic:  liam_t
+- name: Maxwell
+  pic:  Maxwell
 
-- name: Lim
-  pic:  lim
+- name: Melinda
+  pic:  Melinda
 
-- name: Madeleine
-  pic:  madeleine
-
-- name: Marjan
-  pic:  marjan
+- name: Michael
+  pic:  Micheal
 
 - name: Nicole
-  pic:  nicole
+  pic:  Nicole
 
-- name: Sharon
-  pic:  sharon
+- name: Rachel
+  pic:  Rachel
 
-- name: Stefan
-  pic:  stefan
+- name: Sara
+  pic:  Sara
 
-- name: Steve
-  pic:  steve
+- name: Sarah
+  pic:  Sarah
 
-- name: Suzanne
-  pic:  suzanne
+- name: Siobhan
+  pic:  Siobhan
 
 - name: Tanuj
-  pic:  tanuj
-
-- name: Taylor
-  pic:  taylor
+  pic:  Tanuj
 
 - name: Zach
-  pic:  
-
-- name: Zayneb
-  pic:  zayneb
-
-- name: Zoe K
-  pic:  zoe_k
-
-- name: Zoe R
-  pic:  zoe_r
+  pic:  Zach
 
 # Carousel images (add as many lines as necessary)
 carousel:
@@ -176,6 +170,8 @@ address:
 # Past managers (add as many lines as necessary)
 # Newest to oldest
 past_managers:
+  - name: Ali Kehl
+  - name: Zayneb Ragheai
   - name: Jordan LoMonaco
   - name: Thomas Lynch
   - name: Darren Cheng
