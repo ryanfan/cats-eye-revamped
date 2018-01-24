@@ -25,6 +25,10 @@ exec:
   pic: maxwell
   position: Junior Co-Manager
 
+- name: Kevin Yue
+  pic: Kevin
+  position: Tech Director
+
 subcommittee:
 
 - name: Abera
