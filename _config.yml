@@ -2,6 +2,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://thecatseye.ca   # with the https protocol
 enforce_ssl: thecatseye.ca   # without any protocol
 maintenance: 0
+gems:
+  - jekyll-redirect-from
 
 # Site settings
 title: The Cat's Eye
